@@ -1,12 +1,11 @@
-# React Three Fiber - WebGPU Starter
+# R3F Baking Tutorial for Three.js
 
-Build WebGPU Apps with Three.js & React Three Fiber
+[Video tutorial](https://youtu.be/w2XvGYxQiOk) - [Demo](https://baking.wawasensei.dev)
 
-```
-yarn
-yarn dev
-```
+## Blender Files
 
-![image](https://user-images.githubusercontent.com/6551176/221732091-23ee52cb-4150-42fa-b998-43628d7a6b0d.png)
+- [Before bake](https://assets.wawasensei.dev/blender/Living%20room%20unbaked.blend)
+- [After bake](https://assets.wawasensei.dev/blender/Living%20room%20baked.blend)
 
-> Learn more about WebGPU and how to use it with Three.js and React Three Fiber with [React Three Fiber: The Ultimate Guide to 3D Web Development](https://wawasensei.dev/courses/react-three-fiber)
+
+<img width="1920" height="1080" alt="r3f-baking-thumbnail" src="https://github.com/user-attachments/assets/3f2b07d1-93e4-4381-8552-7251c252ac4b" />
